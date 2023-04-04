@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"cycling","l":"Race"},{"p":"cycling","l":"Result"},{"p":"cycling","l":"Rider"},{"p":"cycling","l":"Segment"},{"p":"cycling","l":"Stage"},{"p":"cycling","l":"Team"}];updateSearchResults();
